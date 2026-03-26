@@ -1,0 +1,1 @@
+Python is a high-level programming language. It is widely used in data science, web development, and automation. Functions in Python are defined using the def keyword. Lists are mutable, while tuples are immutable. Dictionaries store data in key-value pairs.
